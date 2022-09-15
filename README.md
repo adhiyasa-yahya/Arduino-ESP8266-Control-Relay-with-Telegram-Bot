@@ -15,4 +15,4 @@
 - ArduinoJson
 
 ### Circuit Diagram
-![schema](https://github.com/adhiyasa-yahya/Arduino-ESP8266-Control-Relay-with-Telegram-Bot/blob/main/schema wiring arduino.png?raw=true)
+![schema](https://github.com/adhiyasa-yahya/Arduino-ESP8266-Control-Relay-with-Telegram-Bot/blob/main/schema_wiring_arduino.png?raw=true)
